@@ -1,7 +1,5 @@
 # MEL Keylogger - Research & Educational Edition
 
-## ⚠️ DISCLAIMER / AVERTISSEMENT
-
 **ENGLISH:**
 This project is developed for **EDUCATIONAL AND RESEARCH PURPOSES ONLY**. It is intended to demonstrate cybersecurity concepts, threat analysis, and defensive programming techniques. 
 
@@ -9,14 +7,6 @@ This project is developed for **EDUCATIONAL AND RESEARCH PURPOSES ONLY**. It is 
 - Unauthorized use of keyloggers is **ILLEGAL** in most jurisdictions
 - This project is meant for controlled environments (VMs, isolated networks, penetration testing labs with proper authorization)
 - The author and contributors are **NOT RESPONSIBLE** for any misuse or damage caused by this software
-
-**FRANÇAIS:**
-Ce projet est développé **UNIQUEMENT À DES FINS ÉDUCATIVES ET DE RECHERCHE**. Il vise à démontrer les concepts de cybersécurité, l'analyse des menaces et les techniques de programmation défensive.
-
-- **NE PAS** utiliser ce logiciel sur un système sans autorisation écrite explicite
-- L'utilisation non autorisée de keyloggers est **ILLÉGALE** dans la plupart des juridictions
-- Ce projet est destiné aux environnements contrôlés (VMs, réseaux isolés, laboratoires de tests d'intrusion avec autorisation appropriée)
-- L'auteur et les contributeurs ne sont **PAS RESPONSABLES** de toute utilisation abusive ou dommage causé par ce logiciel
 
 ---
 
